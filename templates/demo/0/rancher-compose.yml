@@ -1,8 +1,8 @@
 .catalog:
   name: Demo
   description: |
-    (Training) Catalog Demo
-  version: 0.1
+    (Training) Catalog Demo test
+  version: 0.1.2
   minimum_rancher_version: v1.0.0
   maintainer: "Rancher-CN <rancher-cn@outlook.com>"
   questions:

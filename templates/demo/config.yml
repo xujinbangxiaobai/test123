@@ -1,7 +1,7 @@
-name: Catalog Demo
+name: Catalog Test
 description: |
   Demo nginx service
-version: 0.1
+version: 0.1.2.0
 category: Demo
 maintainer: community
 license:
